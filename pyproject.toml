@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ucircle"
+version = "0.1.0"
+description = "A recreation of the Unit Circle implemented as a study of Trigonometry for the Advanced Mathematics for Computing Topics course, part of the São Paulo Federal Institute's Jacareí campus' Systems Analysis and Development course."
+authors = ["Juno Takano <juno.takano@aluno.ifsp.edu.br>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.9.2"
+
+[tool.poetry.scripts]
+main = "ucircle:main"

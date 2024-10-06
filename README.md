@@ -1,0 +1,1 @@
+A recreation of the Unit Circle implemented as a study of Trigonometry for the Advanced Mathematics for Computing Topics course, part of the São Paulo Federal Institute's Jacareí campus' Systems Analysis and Development course.
