@@ -1,4 +1,3 @@
-from ucircle.test import import_test
+from ucircle.render import render
 
-print('main test')
-import_test()
+render()
